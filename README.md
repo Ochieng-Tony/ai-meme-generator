@@ -1,4 +1,4 @@
-# AI Meme Generator 😂
+# AI Meme Generator 
 
 A fun web app where you upload an image and get AI-suggested captions to create memes.
 
